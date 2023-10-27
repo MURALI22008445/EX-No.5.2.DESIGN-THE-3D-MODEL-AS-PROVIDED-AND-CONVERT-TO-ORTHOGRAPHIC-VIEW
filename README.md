@@ -34,13 +34,12 @@ Switch to drawing mode from design mode
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
-
-## OUTPUT
-
-
+## OUTPUT:
+![murali 5 2_page-0001](https://github.com/MURALI22008445/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119643767/2d2d2092-8335-4a2e-a637-e020a1851963)
 
 
-[murali 5.2.pdf](https://github.com/MURALI22008445/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/files/13188077/murali.5.2.pdf)
+
+
 
 
 ## RESULT:
