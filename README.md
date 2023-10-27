@@ -38,5 +38,10 @@ Switch to drawing mode from design mode
 ## OUTPUT
 
 
+
+
+[murali 5.2.pdf](https://github.com/MURALI22008445/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/files/13188077/murali.5.2.pdf)
+
+
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
